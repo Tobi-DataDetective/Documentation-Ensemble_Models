@@ -1,0 +1,2 @@
+# Ensemble Models: Bagging, Random Forest and Boosting for classification and regression
+Implementing three ensemble models- Bagging, Random Forest and Boosting for classification and regression problems. For the classification problem, we used bagging and Gradient boosting on titanic dataset. For the regression problem, we used Random Forest on hitters dataset and Ada boost on advertisement dataset. It is a lab demonstration of FEM2063 Data Analytics course at the UTP, Malaysia.
